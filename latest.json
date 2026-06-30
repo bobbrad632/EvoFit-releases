@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.6.0/evofit-v1.6.0.apk",
-  "sha256": "ed88c4ae076213900e780181aefe64514398f6f054bae759899aa0b89b7b86e4",
-  "notes": "Splash now renders inside Flutter so OEM overrides (MIUI etc.) can no longer hijack the brand colours."
+  "versionCode": 8,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.7.0/evofit-v1.7.0.apk",
+  "sha256": "0fb5cdef659ecfc1cab8091b26b12fb9a7e7a2d128e527ae0c0cbf08cc4c85dc",
+  "notes": "Splash polish: brand-yellow window background everywhere (no dark-green flash before Flutter) and the in-app splash uses just the dark mark (no squircle outline)."
 }
