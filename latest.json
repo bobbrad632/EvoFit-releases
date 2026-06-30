@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.1.0/evofit-v1.1.0.apk",
+  "sha256": "652c2cc0322251c56ad844cb53d9461323b0bf647bb49839fc47ce38e1b7e7e7",
+  "notes": "First release with the in-app updater. Tap Settings > Check for updates to fetch future builds straight from GitHub."
+}
