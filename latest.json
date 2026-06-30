@@ -1,7 +1,7 @@
-{
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.1.0/evofit-v1.1.0.apk",
-  "sha256": "652c2cc0322251c56ad844cb53d9461323b0bf647bb49839fc47ce38e1b7e7e7",
-  "notes": "First release with the in-app updater. Tap Settings > Check for updates to fetch future builds straight from GitHub."
+﻿{
+    "apkUrl":  "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.2.0/evofit-v1.2.0.apk",
+    "sha256":  "01bf1d73a8bc70220b4327ee8cb256f2065ea50c131b9d3656cff8336c892dca",
+    "versionCode":  3,
+    "versionName":  "1.2.0",
+    "notes":  "Test upgrade from v1.1.0. After install, the Check-for-updates screen should show `Installed: 1.2.0 (build 3)` and report `You are on the latest version`."
 }
