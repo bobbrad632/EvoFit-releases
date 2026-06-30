@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.5.0/evofit-v1.5.0.apk",
-  "sha256": "fa900555990e02264d6c21077a6970e35585f177ccb596535c70462d99823047",
-  "notes": "Splash redesign: solid EvoFit yellow background with the dark EvoFit mark rendered from a vector drawable (no pixelation, no dark-mode tint)."
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.6.0/evofit-v1.6.0.apk",
+  "sha256": "ed88c4ae076213900e780181aefe64514398f6f054bae759899aa0b89b7b86e4",
+  "notes": "Splash now renders inside Flutter so OEM overrides (MIUI etc.) can no longer hijack the brand colours."
 }
