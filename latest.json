@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.3.0/evofit-v1.3.0.apk",
-  "sha256": "fbd13306c66fcdcae3f1695448b3c32b42880a04ae17ceeaa41bd713c5f9f7c3",
-  "notes": "Splash screen now shows the EvoFit logo over the dark background. Updater headings switched to uppercase."
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.4.0/evofit-v1.4.0.apk",
+  "sha256": "105af6035b59b642bcf320691d20b0f0104b98e8785cccebbf77733d8faa33db",
+  "notes": "Splash screen logo now renders at proper lime-green on the dark background (overrides Android 12+ default tinting)."
 }
