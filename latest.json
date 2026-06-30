@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.8.0/evofit-v1.8.0.apk",
-  "sha256": "c8469ee81e5c558d495618d7d017dd67c1a74bee10901e330b2e7de7fa594eb0",
-  "notes": "forceDark disabled on every theme, in-app yellow splash now holds for 2.5s."
+  "versionCode": 10,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.9.0/evofit-v1.9.0.apk",
+  "sha256": "a14b9f8f3315cb155ed5119d4e6a91dfbdcec90e1bb024c5ea96fa7549f32ade",
+  "notes": "Wizard polish (overlays, fonts, sizing, Plan Summary) and a transparent system splash icon so the splash reads as one screen on AOSP."
 }
