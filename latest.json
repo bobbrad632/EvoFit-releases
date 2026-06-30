@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.4.0/evofit-v1.4.0.apk",
-  "sha256": "105af6035b59b642bcf320691d20b0f0104b98e8785cccebbf77733d8faa33db",
-  "notes": "Splash screen logo now renders at proper lime-green on the dark background (overrides Android 12+ default tinting)."
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.5.0/evofit-v1.5.0.apk",
+  "sha256": "fa900555990e02264d6c21077a6970e35585f177ccb596535c70462d99823047",
+  "notes": "Splash redesign: solid EvoFit yellow background with the dark EvoFit mark rendered from a vector drawable (no pixelation, no dark-mode tint)."
 }
