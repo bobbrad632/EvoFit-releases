@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.7.0/evofit-v1.7.0.apk",
-  "sha256": "0fb5cdef659ecfc1cab8091b26b12fb9a7e7a2d128e527ae0c0cbf08cc4c85dc",
-  "notes": "Splash polish: brand-yellow window background everywhere (no dark-green flash before Flutter) and the in-app splash uses just the dark mark (no squircle outline)."
+  "versionCode": 9,
+  "versionName": "1.8.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.8.0/evofit-v1.8.0.apk",
+  "sha256": "c8469ee81e5c558d495618d7d017dd67c1a74bee10901e330b2e7de7fa594eb0",
+  "notes": "forceDark disabled on every theme, in-app yellow splash now holds for 2.5s."
 }
