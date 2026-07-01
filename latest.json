@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.13.0/evofit-v1.13.0.apk",
-  "sha256": "1a4b9cfc8d7277207a2c832c496cde1e6fbda16e6783155c15d84fa525891fa6",
-  "notes": "Auto Drive sync on app close. Cleaner Settings page with grouped sections."
+  "versionCode": 15,
+  "versionName": "1.14.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.14.0/evofit-v1.14.0.apk",
+  "sha256": "ef31c0c0e481339a0ab0fb2e7379749de3db01fc8da90df413ee0c591efe7bd9",
+  "notes": "Progress ring now shows objective completion (not just time elapsed). Ring color reflects your status: green = on track, amber = needs attention."
 }
