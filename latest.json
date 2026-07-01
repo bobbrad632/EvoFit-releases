@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.11.0/evofit-v1.11.0.apk",
-  "sha256": "a0381ecf1abec0924d765928dbdf071dde1d1a5bcc2c01c6f45463fb6799b0c9",
-  "notes": "Editable fast start time and separated plan-progress (home) from week-progress (progress tab)."
+  "versionCode": 13,
+  "versionName": "1.12.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.12.0/evofit-v1.12.0.apk",
+  "sha256": "5b4a6bc5510d0ab38dc307ac90dd04c4ed52d5f6ba2c211bdda43885db72e84f",
+  "notes": "MIGRATION RELEASE: signed with a new keystore, so v1.11.0 and earlier need to uninstall + reinstall (back up via Google Drive first). Also: automatic update check on app start."
 }
