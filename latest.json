@@ -1,7 +1,7 @@
 {
-  "versionName": "1.21.2",
-  "versionCode": 28,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.2+28.apk",
-  "sha256": "a866f8816e36d8bd6daff6b792049b755851b687e0c6d9103f9b1fbbb0b6d68d",
-  "notes": "Bug fixes: profile photo gradient overlay now visible, photo upload no longer crashes, avatar sits flush to burger menu, tapping drawer user card opens profile page."
+  "versionName": "1.21.3",
+  "versionCode": 29,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.3+29.apk",
+  "sha256": "aa8cad978887ae29da69d02c7d2943c626ced8188e8465636efe5370fb1be0aa",
+  "notes": "Fixes the crash when cropping a profile photo. The crop screen now opens correctly after picking an image."
 }
