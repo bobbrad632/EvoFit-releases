@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.18.0/evofit-v1.18.0.apk",
-  "sha256": "27689051f40dc560325c6622a9e2d170b3fc7ad9e9e57d9a601c09750f438849",
-  "notes": "24h time everywhere, floating notifications fixed, alarm-style fast-complete alert, in-app celebration animation."
+  "versionCode": 20,
+  "versionName": "1.19.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.19.0/evofit-v1.19.0.apk",
+  "sha256": "2e31e15244d534ec4e7ed05f3ba1d7631fb3f61ba9aa88d59ff4e12aadec058a",
+  "notes": "Weight view overhaul: hero card with background image, enhanced chart with period chips and 7-day rolling average, BMI strip, and delta arrows on each log entry."
 }
