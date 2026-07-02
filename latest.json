@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.17.0/evofit-v1.17.0.apk",
-  "sha256": "fcb1374efefadd799f47ea64ac902c81b38add5771db1bfc42a643f873edb8f4",
-  "notes": "Fasting overhaul: new goal card with mini 7-day bar chart, editable Finish Fast form, biological phase indicator on active timer, and fasting duration chart in history."
+  "versionCode": 19,
+  "versionName": "1.18.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.18.0/evofit-v1.18.0.apk",
+  "sha256": "27689051f40dc560325c6622a9e2d170b3fc7ad9e9e57d9a601c09750f438849",
+  "notes": "24h time everywhere, floating notifications fixed, alarm-style fast-complete alert, in-app celebration animation."
 }
