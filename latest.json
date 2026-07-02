@@ -1,7 +1,7 @@
 {
-  "versionName": "1.21.0",
-  "versionCode": 26,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.0.apk",
-  "sha256": "594141104f4ee513a4cef62661ac3c6ef35ca13167a3ba8ed8992d057608fbb7",
-  "notes": "User profile: add your name and photo during setup. Home screen now greets you by name with your avatar. Edit anytime via Settings → Profile."
+  "versionName": "1.21.1",
+  "versionCode": 27,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.1.apk",
+  "sha256": "d5dc0a5cee532686e4e95c9f34ee79281c2e0444f65e531339233826f6350144",
+  "notes": "Avatar polish: EvoFit logo shown when no name set, native crop dialog after picking photo, dark gradient overlay on profile photos, home header shows name only."
 }
