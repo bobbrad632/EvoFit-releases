@@ -1,7 +1,7 @@
 {
-  "versionName": "1.21.1",
-  "versionCode": 27,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.1.apk",
-  "sha256": "d5dc0a5cee532686e4e95c9f34ee79281c2e0444f65e531339233826f6350144",
-  "notes": "Avatar polish: EvoFit logo shown when no name set, native crop dialog after picking photo, dark gradient overlay on profile photos, home header shows name only."
+  "versionName": "1.21.2",
+  "versionCode": 28,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.2+28.apk",
+  "sha256": "a866f8816e36d8bd6daff6b792049b755851b687e0c6d9103f9b1fbbb0b6d68d",
+  "notes": "Bug fixes: profile photo gradient overlay now visible, photo upload no longer crashes, avatar sits flush to burger menu, tapping drawer user card opens profile page."
 }
