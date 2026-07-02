@@ -1,7 +1,7 @@
 {
-  "versionName": "1.20.2",
-  "versionCode": 25,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.20.2.apk",
-  "sha256": "562462c08995e5705cdf1191600305dc76d25ac5ec676c4991c06cc0052d35b1",
-  "notes": "Hotfix: correct gym photo on the weight screen hero card."
+  "versionName": "1.21.0",
+  "versionCode": 26,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.0.apk",
+  "sha256": "594141104f4ee513a4cef62661ac3c6ef35ca13167a3ba8ed8992d057608fbb7",
+  "notes": "User profile: add your name and photo during setup. Home screen now greets you by name with your avatar. Edit anytime via Settings → Profile."
 }
