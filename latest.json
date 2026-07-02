@@ -1,7 +1,7 @@
 {
   "versionName": "1.19.2",
   "versionCode": 22,
-  "apkFileName": "EvoFit-v1.19.2.apk",
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.19.2.apk",
   "sha256": "c455188788dad2e769a2960b3935676d74faf629ee300892b046cf35e3571e81",
   "notes": "Fix splash screen freeze: defer notification plugin initialization to after first Flutter frame."
 }
