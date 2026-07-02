@@ -1,7 +1,7 @@
 {
-  "versionName": "1.21.4",
-  "versionCode": 30,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.4+30.apk",
-  "sha256": "7b3acd3806c0784002ebbb1ff3601b00fc894de85ef9021d2d094120709351a1",
-  "notes": "Fixes the error when starting a plan at the end of the setup wizard. Downloaded update files are now cleaned up automatically. Profile photos use a consistent dark overlay."
+  "versionName": "1.21.5",
+  "versionCode": 31,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.5+31.apk",
+  "sha256": "06483a4292b45f3f0a20d2baad0f31d69ef6703912ca9dfb1703d9db7c5134ed",
+  "notes": "Update checker now always fetches fresh metadata (bypasses GitHub CDN cache). Includes all fixes from v1.21.4: wizard start-plan error, APK cleanup, avatar overlay."
 }
