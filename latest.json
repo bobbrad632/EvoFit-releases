@@ -1,7 +1,7 @@
 {
-  "versionName": "1.19.2",
-  "versionCode": 22,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.19.2.apk",
-  "sha256": "c455188788dad2e769a2960b3935676d74faf629ee300892b046cf35e3571e81",
-  "notes": "Fix splash screen freeze: defer notification plugin initialization to after first Flutter frame."
+  "versionName": "1.20.0",
+  "versionCode": 23,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.20.0.apk",
+  "sha256": "fa3e95adaa974ddf57d965f7170cda2709ebaaeb199e9dd2668241fff3906679",
+  "notes": "New gym photo on weight screen, yellow plan-progress ring on home, settings cleanup, photo restore fix."
 }
