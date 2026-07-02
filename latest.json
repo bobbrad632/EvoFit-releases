@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.19.1",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.19.1/evofit-v1.19.1.apk",
-  "sha256": "a7d66db0e9ed8321dd4bd77cf21b43cfdae4d53041a900a089c1af7928e3f060",
-  "notes": "Hotfix: home screen no longer blocks the UI thread on startup. Update recommended."
+  "versionName": "1.19.2",
+  "versionCode": 22,
+  "apkFileName": "EvoFit-v1.19.2.apk",
+  "sha256": "c455188788dad2e769a2960b3935676d74faf629ee300892b046cf35e3571e81",
+  "notes": "Fix splash screen freeze: defer notification plugin initialization to after first Flutter frame."
 }
