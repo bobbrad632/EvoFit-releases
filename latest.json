@@ -2,6 +2,6 @@
   "versionName": "1.20.1",
   "versionCode": 24,
   "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.20.1.apk",
-  "sha256": "34f194b77fd9cf0ac665fcad2a0f13d267294eaf4add4d295c84a7734b71e51d",
-  "notes": "Hotfix: gym mirror photo now correctly showing on the weight screen hero card."
+  "sha256": "f20da44ac3fbc2eb884d50705c9ac72c95a03f7f475a3bc3436d25aae3b34c3c",
+  "notes": "Hotfix: correct gym photo now showing on the weight screen hero card."
 }
