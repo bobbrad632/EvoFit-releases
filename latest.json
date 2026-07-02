@@ -1,7 +1,7 @@
 {
-  "versionName": "1.20.0",
-  "versionCode": 23,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.20.0.apk",
-  "sha256": "fa3e95adaa974ddf57d965f7170cda2709ebaaeb199e9dd2668241fff3906679",
-  "notes": "New gym photo on weight screen, yellow plan-progress ring on home, settings cleanup, photo restore fix."
+  "versionName": "1.20.1",
+  "versionCode": 24,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.20.1.apk",
+  "sha256": "34f194b77fd9cf0ac665fcad2a0f13d267294eaf4add4d295c84a7734b71e51d",
+  "notes": "Hotfix: gym mirror photo now correctly showing on the weight screen hero card."
 }
