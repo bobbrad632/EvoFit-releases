@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.19.0/evofit-v1.19.0.apk",
-  "sha256": "2e31e15244d534ec4e7ed05f3ba1d7631fb3f61ba9aa88d59ff4e12aadec058a",
-  "notes": "Weight view overhaul: hero card with background image, enhanced chart with period chips and 7-day rolling average, BMI strip, and delta arrows on each log entry."
+  "versionCode": 21,
+  "versionName": "1.19.1",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.19.1/evofit-v1.19.1.apk",
+  "sha256": "a7d66db0e9ed8321dd4bd77cf21b43cfdae4d53041a900a089c1af7928e3f060",
+  "notes": "Hotfix: home screen no longer blocks the UI thread on startup. Update recommended."
 }
