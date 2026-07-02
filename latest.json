@@ -1,7 +1,7 @@
 {
-  "versionName": "1.21.3",
-  "versionCode": 29,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.3+29.apk",
-  "sha256": "aa8cad978887ae29da69d02c7d2943c626ced8188e8465636efe5370fb1be0aa",
-  "notes": "Fixes the crash when cropping a profile photo. The crop screen now opens correctly after picking an image."
+  "versionName": "1.21.4",
+  "versionCode": 30,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.4+30.apk",
+  "sha256": "7b3acd3806c0784002ebbb1ff3601b00fc894de85ef9021d2d094120709351a1",
+  "notes": "Fixes the error when starting a plan at the end of the setup wizard. Downloaded update files are now cleaned up automatically. Profile photos use a consistent dark overlay."
 }
