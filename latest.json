@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.14.0/evofit-v1.14.0.apk",
-  "sha256": "ef31c0c0e481339a0ab0fb2e7379749de3db01fc8da90df413ee0c591efe7bd9",
-  "notes": "Progress ring now shows objective completion (not just time elapsed). Ring color reflects your status: green = on track, amber = needs attention."
+  "versionCode": 18,
+  "versionName": "1.17.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.17.0/evofit-v1.17.0.apk",
+  "sha256": "fcb1374efefadd799f47ea64ac902c81b38add5771db1bfc42a643f873edb8f4",
+  "notes": "Fasting overhaul: new goal card with mini 7-day bar chart, editable Finish Fast form, biological phase indicator on active timer, and fasting duration chart in history."
 }
