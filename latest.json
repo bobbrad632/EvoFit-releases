@@ -1,7 +1,7 @@
 {
-  "versionName": "1.21.5",
-  "versionCode": 31,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.21.5+31.apk",
-  "sha256": "06483a4292b45f3f0a20d2baad0f31d69ef6703912ca9dfb1703d9db7c5134ed",
-  "notes": "Update checker now always fetches fresh metadata (bypasses GitHub CDN cache). Includes all fixes from v1.21.4: wizard start-plan error, APK cleanup, avatar overlay."
+  "versionName": "1.22.0",
+  "versionCode": 32,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.22.0+32.apk",
+  "sha256": "307b0f94ba5409b99a7de9d933327c6200a1ec1018f81d472aad5c83f16d8d13",
+  "notes": "Navbar and progress pages now only show modules you selected in your plan. Basic plans no longer display fasting, activity, or other unselected module references."
 }
