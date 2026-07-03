@@ -1,7 +1,7 @@
 {
-  "versionName": "1.26.0",
-  "versionCode": 36,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.26.0+36.apk",
-  "sha256": "58e5b19421fc894d4b6586756299ea3532b48920a8c8d8b5ecdef26fb11e0c70",
-  "notes": "Onboarding overhaul: progress bar, consistent screens with imagery, metric/imperial units (kg/lb, cm/ft-in) with locale defaults, a 5-level activity selector, custom plan durations, and a more compact objectives step. Back button now double-taps to exit, and clearing data reloads the app cleanly."
+  "versionName": "1.26.1",
+  "versionCode": 37,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.26.1+37.apk",
+  "sha256": "6799e9486cfa8a1b69927d37bb2dc99b11bdbeec2f3736922aeecf7a224d3684",
+  "notes": "Onboarding polish: the Android nav bar is now hidden during setup so the Continue button is clear, and the Modules and Pace steps fit on one screen without scrolling. Tighter spacing on units, path and duration cards."
 }
