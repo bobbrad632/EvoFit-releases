@@ -1,7 +1,7 @@
 {
-  "versionName": "1.22.0",
-  "versionCode": 32,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.22.0+32.apk",
-  "sha256": "307b0f94ba5409b99a7de9d933327c6200a1ec1018f81d472aad5c83f16d8d13",
-  "notes": "Navbar and progress pages now only show modules you selected in your plan. Basic plans no longer display fasting, activity, or other unselected module references."
+  "versionName": "1.23.0",
+  "versionCode": 33,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.23.0+33.apk",
+  "sha256": "e9a71d05283617e5d3b8393e189c8fe09e76246103d71beabced5b1fc8da0acf",
+  "notes": "Optional calorie tracking: add calories to any meal and see today's total against your estimated daily allowance. New progress-photos comparison: view your earliest and latest weigh-in photos side by side. Your activity level is now saved to your profile and powers the calorie allowance."
 }
