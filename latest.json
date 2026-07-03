@@ -1,7 +1,7 @@
 {
-  "versionName": "1.26.1",
-  "versionCode": 37,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.26.1+37.apk",
-  "sha256": "6799e9486cfa8a1b69927d37bb2dc99b11bdbeec2f3736922aeecf7a224d3684",
-  "notes": "Onboarding polish: the Android nav bar is now hidden during setup so the Continue button is clear, and the Modules and Pace steps fit on one screen without scrolling. Tighter spacing on units, path and duration cards."
+  "versionName": "1.26.2",
+  "versionCode": 38,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.26.2+38.apk",
+  "sha256": "8540b2bbe0c0a016db1a969813731317507bf26951fd638e90e19bfbaac59b30",
+  "notes": "Fix: Clear all data now reloads the app immediately and returns you to the welcome screen, instead of leaving you on the settings page."
 }
