@@ -1,7 +1,7 @@
 {
-  "versionName": "1.25.0",
-  "versionCode": 35,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.25.0+35.apk",
-  "sha256": "11751e9a42de610f5a4d8917a9ef8268af0a12920f1ca30ecddaa4caccd48aa3",
-  "notes": "Progress image: added Save to Gallery button alongside Share. EVOFIT branding uppercase on the card. Weight photos now open the crop tool automatically after selection (3:4 portrait ratio)."
+  "versionName": "1.26.0",
+  "versionCode": 36,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.26.0+36.apk",
+  "sha256": "58e5b19421fc894d4b6586756299ea3532b48920a8c8d8b5ecdef26fb11e0c70",
+  "notes": "Onboarding overhaul: progress bar, consistent screens with imagery, metric/imperial units (kg/lb, cm/ft-in) with locale defaults, a 5-level activity selector, custom plan durations, and a more compact objectives step. Back button now double-taps to exit, and clearing data reloads the app cleanly."
 }
