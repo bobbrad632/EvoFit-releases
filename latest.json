@@ -1,7 +1,7 @@
 {
-  "versionName": "1.24.0",
-  "versionCode": 34,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.24.0+34.apk",
-  "sha256": "f2c31a63b4ea02d5c359691b929e53318cb36e630c3aab4bc9f45adf4b5df90e",
-  "notes": "Generate Progress Image: compare your before & after weigh-in photos and share a branded progress card. Progress photos moved to the Progress tab. Minor UX improvements."
+  "versionName": "1.25.0",
+  "versionCode": 35,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.25.0+35.apk",
+  "sha256": "11751e9a42de610f5a4d8917a9ef8268af0a12920f1ca30ecddaa4caccd48aa3",
+  "notes": "Progress image: added Save to Gallery button alongside Share. EVOFIT branding uppercase on the card. Weight photos now open the crop tool automatically after selection (3:4 portrait ratio)."
 }
