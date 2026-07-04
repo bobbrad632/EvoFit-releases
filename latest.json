@@ -1,7 +1,7 @@
 {
-  "versionName": "1.43.0",
-  "versionCode": 55,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.43.0+55/app-release.apk",
-  "sha256": "a3af495f669e36bd7c46ac9487c9b6b764e95ba3688e858f6be140cd771d00b3",
-  "notes": "Notifications now play sound: alert channels were refreshed with audible settings, and the fast-complete alert uses the alarm tone so it cuts through."
+  "versionName": "1.44.0",
+  "versionCode": 56,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.44.0+56/app-release.apk",
+  "sha256": "86977abb29a98c343a5f1ba4de3e6a986e4cca14174588954d82c161b558d09b",
+  "notes": "Notifications now use a built-in alert sound instead of relying on the phone's default (which can be silent). The test screen also shows each channel's live sound/importance so any remaining issue is visible."
 }
