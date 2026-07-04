@@ -1,7 +1,7 @@
 {
-  "versionName": "1.35.0",
-  "versionCode": 47,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.35.0+47/app-release.apk",
-  "sha256": "986b7d666263155c7ee830a3417a28163ca3e1f6bfffe5849c5a5e688ab64571",
-  "notes": "Startup notification permission prompt + popup title uppercase. Includes all notification system features from v1.33."
+  "versionName": "1.36.0",
+  "versionCode": 48,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.36.0+48/app-release.apk",
+  "sha256": "ebc999e26efe0cd960403d60eda78a030f3fcdf0f84c1c54e47b3287afa98f22",
+  "notes": "Fixes in-app update download (HTTP 404 on CDN redirect). Install this build once manually, then all future updates work in-app."
 }
