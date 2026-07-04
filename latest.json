@@ -1,7 +1,7 @@
 {
-  "versionName": "1.40.0",
-  "versionCode": 52,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.40.0+52/app-release.apk",
-  "sha256": "e00e2e47c8872521731bcc627992fe9655458d85f4defaa257174bf2da6914ec",
-  "notes": "Fixes notifications for good: the notification icon was being stripped from the build. Permission prompts, reminders, fasting alerts and streak nudges now work."
+  "versionName": "1.41.0",
+  "versionCode": 53,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.41.0+53/app-release.apk",
+  "sha256": "3a640a1e15b83115ba63d9e63f961d820395e2d1e32b6d61d166de9900bce120",
+  "notes": "The first time you start a fast, EvoFit now explains and offers to enable precise 'Alarms & reminders' so fasting alerts land exactly on time."
 }
