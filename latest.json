@@ -1,7 +1,7 @@
 {
-  "versionName": "1.38.0",
-  "versionCode": 50,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.38.0+50/app-release.apk",
-  "sha256": "da5df06fe786a0d12c39a753534ce0e07919685d3c19e3411b5141945483b107",
-  "notes": "Critical fix: all notifications were broken due to wrong icon reference. Permission prompt, reminders, fasting alerts and streak nudges now work correctly."
+  "versionName": "1.39.0",
+  "versionCode": 51,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.39.0+51/app-release.apk",
+  "sha256": "3dfbf824bcbc0281aea234db7eb2a1cfc4c2e1d73bed1cba16480227fbd42fe9",
+  "notes": "Fix: notification icon now loads correctly on all devices."
 }
