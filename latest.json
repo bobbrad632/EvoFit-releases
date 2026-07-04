@@ -1,7 +1,7 @@
 {
-  "versionName": "1.26.2",
-  "versionCode": 38,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.26.2+38.apk",
-  "sha256": "8540b2bbe0c0a016db1a969813731317507bf26951fd638e90e19bfbaac59b30",
-  "notes": "Fix: Clear all data now reloads the app immediately and returns you to the welcome screen, instead of leaving you on the settings page."
+  "versionName": "1.27.0",
+  "versionCode": 39,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.27.0+39.apk",
+  "sha256": "c349c7cf6f05a4083b68bfecac4c08de1a77d2837bc1ddf74a441b61da1120ef",
+  "notes": "Onboarding refinements: compact Metric/Imperial segmented toggle, full-width Sex options, consistent hero image sizes, larger objectives/rhythm cards on the Pace step, and more compact Plan Summary cards."
 }
