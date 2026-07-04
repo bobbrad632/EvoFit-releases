@@ -1,7 +1,7 @@
 {
-  "versionName": "1.30.0",
-  "versionCode": 42,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.30.0+42.apk",
-  "sha256": "5fad44c1bae15d7d7c10a1accdbac72cc36772215ea08841646f8247cdcc85e1",
-  "notes": "Welcome image zoomed in, hero cards shorter with overlay restored, validation errors clear on re-entry, metric default."
+  "versionName": "1.31.0",
+  "versionCode": 43,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.31.0+43.apk",
+  "sha256": "3fe7c913446f2887b025dcb947c9bb5fb1ccc8ddc54cb7ca7e6343b1cf2d8967",
+  "notes": "Hero card images recentred: all screens show the middle of the artwork, Path/Modules/Pace/Summary shifted slightly toward top for best composition."
 }
