@@ -1,7 +1,7 @@
 {
-  "versionName": "1.41.0",
-  "versionCode": 53,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.41.0+53/app-release.apk",
-  "sha256": "3a640a1e15b83115ba63d9e63f961d820395e2d1e32b6d61d166de9900bce120",
-  "notes": "The first time you start a fast, EvoFit now explains and offers to enable precise 'Alarms & reminders' so fasting alerts land exactly on time."
+  "versionName": "1.42.0",
+  "versionCode": 54,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.42.0+54/app-release.apk",
+  "sha256": "536a7e9f24c31a18e8f593c439f7bce069636f44e4c493ad3c312cd8731e7cdc",
+  "notes": "Fix: notification large icon now resolves correctly. Test notifications and all alerts fire without errors."
 }
