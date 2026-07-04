@@ -1,7 +1,7 @@
 {
-  "versionName": "1.32.0",
-  "versionCode": 44,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.32.0+44.apk",
-  "sha256": "299b97d459f140d5b43d91c4116bca6905b6203b7f138c8df312b7753505303f",
-  "notes": "New welcome screen artwork, hero card overlays bottom-to-top, modules image reframed, weight card overlay fixed."
+  "versionName": "1.33.0",
+  "versionCode": 45,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.33.0%2B45/EvoFit-v1.33.0%2B45.apk",
+  "sha256": "876c4b3462277ad4a4444da5d368090f7eee2298cd250c05a9ea5b8b51feac5b",
+  "notes": "In-app notification centre, animated pop-up overlays for fasts and streaks, streak-at-risk OS nudge, fasting start action button, BigPicture OS notification, refreshed wizard artwork."
 }
