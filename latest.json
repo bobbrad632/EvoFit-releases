@@ -1,7 +1,7 @@
 {
-  "versionName": "1.42.0",
-  "versionCode": 54,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.42.0+54/app-release.apk",
-  "sha256": "536a7e9f24c31a18e8f593c439f7bce069636f44e4c493ad3c312cd8731e7cdc",
-  "notes": "Fix: notification large icon now resolves correctly. Test notifications and all alerts fire without errors."
+  "versionName": "1.43.0",
+  "versionCode": 55,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.43.0+55/app-release.apk",
+  "sha256": "a3af495f669e36bd7c46ac9487c9b6b764e95ba3688e858f6be140cd771d00b3",
+  "notes": "Notifications now play sound: alert channels were refreshed with audible settings, and the fast-complete alert uses the alarm tone so it cuts through."
 }
