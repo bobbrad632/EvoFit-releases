@@ -1,7 +1,7 @@
 {
-  "versionName": "1.36.0",
-  "versionCode": 48,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.36.0+48/app-release.apk",
-  "sha256": "ebc999e26efe0cd960403d60eda78a030f3fcdf0f84c1c54e47b3287afa98f22",
-  "notes": "Fixes in-app update download (HTTP 404 on CDN redirect). Install this build once manually, then all future updates work in-app."
+  "versionName": "1.37.0",
+  "versionCode": 49,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.37.0+49/app-release.apk",
+  "sha256": "5aaa5b37365c86bfbda8c5a3b84d35c9605278035eeb7783b7b51e14b7ab486e",
+  "notes": "Fixes notification permission prompt on fresh install + in-app update download fix from v1.36."
 }
