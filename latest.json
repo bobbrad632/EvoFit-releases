@@ -1,7 +1,7 @@
 {
-  "versionName": "1.34.0",
-  "versionCode": 46,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.34.0%2B46/EvoFit-v1.34.0%2B46.apk",
-  "sha256": "43a1f494980a4426ca48766f361907b9fb3720e4282d5ae1a58a8df56d546252",
-  "notes": "Notification system, in-app pop-up overlays, streak reminders, wizard artwork refresh, and APK download fix."
+  "versionName": "1.35.0",
+  "versionCode": 47,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.35.0%2B47/EvoFit-v1.35.0%2B47.apk",
+  "sha256": "986b7d666263155c7ee830a3417a28163ca3e1f6bfffe5849c5a5e688ab64571",
+  "notes": "Startup notification permission prompt + popup title uppercase. Includes all notification system features from v1.33."
 }
