@@ -1,7 +1,7 @@
 {
-  "versionName": "1.33.0",
-  "versionCode": 45,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.33.0%2B45/EvoFit-v1.33.0%2B45.apk",
-  "sha256": "876c4b3462277ad4a4444da5d368090f7eee2298cd250c05a9ea5b8b51feac5b",
-  "notes": "In-app notification centre, animated pop-up overlays for fasts and streaks, streak-at-risk OS nudge, fasting start action button, BigPicture OS notification, refreshed wizard artwork."
+  "versionName": "1.34.0",
+  "versionCode": 46,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.34.0%2B46/EvoFit-v1.34.0%2B46.apk",
+  "sha256": "43a1f494980a4426ca48766f361907b9fb3720e4282d5ae1a58a8df56d546252",
+  "notes": "Notification system, in-app pop-up overlays, streak reminders, wizard artwork refresh, and APK download fix."
 }
