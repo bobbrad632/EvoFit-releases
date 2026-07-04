@@ -1,7 +1,7 @@
 {
-  "versionName": "1.27.0",
-  "versionCode": 39,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.27.0+39.apk",
-  "sha256": "c349c7cf6f05a4083b68bfecac4c08de1a77d2837bc1ddf74a441b61da1120ef",
-  "notes": "Onboarding refinements: compact Metric/Imperial segmented toggle, full-width Sex options, consistent hero image sizes, larger objectives/rhythm cards on the Pace step, and more compact Plan Summary cards."
+  "versionName": "1.28.0",
+  "versionCode": 40,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.28.0+40.apk",
+  "sha256": "babaeef91436456a44c1ba99900a69a0511c3d5238388bb4e31d4d89b2436026",
+  "notes": "Onboarding: new numbered 1-5 activity selector with a green-to-orange intensity ramp, smoother numeric input, equal-height BMI/calorie cards, consistent hero sizes, bottom-pinned buttons, and the Modules layout gap fixed."
 }
