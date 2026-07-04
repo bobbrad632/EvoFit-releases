@@ -1,7 +1,7 @@
 {
-  "versionName": "1.29.0",
-  "versionCode": 41,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.29.0+41.apk",
-  "sha256": "ac3cf7aa08dffbf3939542a57762514216a79d184a17e10b0f3d3c7bb1ca0b63",
-  "notes": "New onboarding artwork: redesigned 4:3 hero images on every wizard step and a new welcome screen. Metric units default, higher Continue button on the Path step, and shorter objectives copy."
+  "versionName": "1.30.0",
+  "versionCode": 42,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.30.0+42.apk",
+  "sha256": "5fad44c1bae15d7d7c10a1accdbac72cc36772215ea08841646f8247cdcc85e1",
+  "notes": "Welcome image zoomed in, hero cards shorter with overlay restored, validation errors clear on re-entry, metric default."
 }
