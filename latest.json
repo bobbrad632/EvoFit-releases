@@ -1,7 +1,7 @@
 {
-  "versionName": "1.31.0",
-  "versionCode": 43,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.31.0+43.apk",
-  "sha256": "3fe7c913446f2887b025dcb947c9bb5fb1ccc8ddc54cb7ca7e6343b1cf2d8967",
-  "notes": "Hero card images recentred: all screens show the middle of the artwork, Path/Modules/Pace/Summary shifted slightly toward top for best composition."
+  "versionName": "1.32.0",
+  "versionCode": 44,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.32.0+44.apk",
+  "sha256": "299b97d459f140d5b43d91c4116bca6905b6203b7f138c8df312b7753505303f",
+  "notes": "New welcome screen artwork, hero card overlays bottom-to-top, modules image reframed, weight card overlay fixed."
 }
