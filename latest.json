@@ -1,7 +1,7 @@
 {
-  "versionName": "1.28.0",
-  "versionCode": 40,
-  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.28.0+40.apk",
-  "sha256": "babaeef91436456a44c1ba99900a69a0511c3d5238388bb4e31d4d89b2436026",
-  "notes": "Onboarding: new numbered 1-5 activity selector with a green-to-orange intensity ramp, smoother numeric input, equal-height BMI/calorie cards, consistent hero sizes, bottom-pinned buttons, and the Modules layout gap fixed."
+  "versionName": "1.29.0",
+  "versionCode": 41,
+  "apkUrl": "https://raw.githubusercontent.com/bobbrad632/EvoFit-releases/main/EvoFit-v1.29.0+41.apk",
+  "sha256": "ac3cf7aa08dffbf3939542a57762514216a79d184a17e10b0f3d3c7bb1ca0b63",
+  "notes": "New onboarding artwork: redesigned 4:3 hero images on every wizard step and a new welcome screen. Metric units default, higher Continue button on the Path step, and shorter objectives copy."
 }
