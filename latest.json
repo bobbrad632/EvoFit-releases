@@ -1,7 +1,7 @@
 {
-  "versionName": "1.47.0",
-  "versionCode": 59,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.47.0+59/app-release.apk",
-  "sha256": "8683b451947eb2241d5935fe653a5c686b83e4a130e52829aa0534d1d4694458",
-  "notes": "Google Drive sync hardened for large photo libraries: backups now stream to/from disk (no big memory spikes), zip work runs off the UI thread, concurrent syncs are serialized, and duplicate cloud backups are cleaned up."
+  "versionName": "1.48.0",
+  "versionCode": 60,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.48.0+60/app-release.apk",
+  "sha256": "3c566275ef6680896641ef602e8a3e294435336825f8965f8937cb660b5c5a51",
+  "notes": "Fix: the 'Precise fasting alerts' permission prompt now actually appears the first time you start a fast (it was being skipped)."
 }
