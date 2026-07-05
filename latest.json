@@ -1,7 +1,7 @@
 {
-  "versionName": "1.45.0",
-  "versionCode": 57,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.45.0+57/app-release.apk",
-  "sha256": "7d5387f22d694ae8a146fbdba329f65f19d1784e43ab6afac1ef503afa2cff0e",
-  "notes": "Smaller download: app size cut from ~104 MB to ~65 MB by removing unused artwork and converting images to WebP. No visible changes."
+  "versionName": "1.46.0",
+  "versionCode": 58,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.46.0+58/app-release.apk",
+  "sha256": "79ce67ecb657f71eabeaf4537912e5f0afe284a9fb227a48052cd0ca0d3e4c4a",
+  "notes": "Fixes repeated Google Drive sync (403 error), stops saving an entry before its photo finishes loading, and lightens the photo card overlays in Food and Activity."
 }
