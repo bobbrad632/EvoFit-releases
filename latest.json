@@ -1,7 +1,7 @@
 {
-  "versionName": "1.52.0",
-  "versionCode": 64,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.52.0+64/app-release.apk",
-  "sha256": "2c6ef3b1f5fb2e28cd4b746dd6844d04e89a702fa8d7697b78e650a43958cf8b",
-  "notes": "Tap the weight chart to open a full-screen interactive trend: wider date ranges, 7-day average / target toggles, and tap-a-point to see its date, weight and change. The Entries card also opens your full weight history."
+  "versionName": "1.53.0",
+  "versionCode": 65,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.53.0+65/app-release.apk",
+  "sha256": "18bd942daa60df87183dee2c7286ced30090e7abc99baef83b9654e041565ece",
+  "notes": "Weight trend polish: fullscreen button moved onto the filter row, the selected-point details no longer get cut off at the bottom, and a rotate button lets you view the graph in landscape."
 }
