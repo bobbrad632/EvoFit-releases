@@ -1,7 +1,7 @@
 {
-  "versionName": "1.48.0",
-  "versionCode": 60,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.48.0+60/app-release.apk",
-  "sha256": "3c566275ef6680896641ef602e8a3e294435336825f8965f8937cb660b5c5a51",
-  "notes": "Fix: the 'Precise fasting alerts' permission prompt now actually appears the first time you start a fast (it was being skipped)."
+  "versionName": "1.49.0",
+  "versionCode": 61,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.49.0+61/app-release.apk",
+  "sha256": "2d14e707f4ccb55e102ccbeb5c0bba44a1819e0e49df254a47deef476b7be704",
+  "notes": "Fasting now shows a live countdown notification with your current phase from the moment you start, and phase alerts fire earlier (4h, 8h, 12h...) so even a 16:8 fast gets regular feedback."
 }
