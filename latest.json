@@ -1,7 +1,7 @@
 {
-  "versionName": "1.49.0",
-  "versionCode": 61,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.49.0+61/app-release.apk",
-  "sha256": "2d14e707f4ccb55e102ccbeb5c0bba44a1819e0e49df254a47deef476b7be704",
-  "notes": "Fasting now shows a live countdown notification with your current phase from the moment you start, and phase alerts fire earlier (4h, 8h, 12h...) so even a 16:8 fast gets regular feedback."
+  "versionName": "1.50.0",
+  "versionCode": 62,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.50.0+62/app-release.apk",
+  "sha256": "5f2016b90a01d1cf37fd336e8b1acbf2a20d53849c3f5ebb3367cddc73a0ec19",
+  "notes": "Weight charts now work after your first log — your setup weight counts as the starting entry. Added a Weight History page (See all) for the full log. Also fixed two dialog titles to be uppercase."
 }
