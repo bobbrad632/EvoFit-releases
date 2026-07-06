@@ -1,7 +1,7 @@
 {
-  "versionName": "1.51.0",
-  "versionCode": 63,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.51.0+63/app-release.apk",
-  "sha256": "f7a567ba3db7b6bd8f93d461b494ed8e36c3495d47e0e1f9a781fe4d2cd6aa03",
-  "notes": "Fasting: reliable persistent countdown notification + a loud alarm at your target. Every add-photo now offers Camera or Gallery. Weight charts get a proper starting baseline. New: restore from Google Drive on the welcome screen."
+  "versionName": "1.52.0",
+  "versionCode": 64,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.52.0+64/app-release.apk",
+  "sha256": "2c6ef3b1f5fb2e28cd4b746dd6844d04e89a702fa8d7697b78e650a43958cf8b",
+  "notes": "Tap the weight chart to open a full-screen interactive trend: wider date ranges, 7-day average / target toggles, and tap-a-point to see its date, weight and change. The Entries card also opens your full weight history."
 }
