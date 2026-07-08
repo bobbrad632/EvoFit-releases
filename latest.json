@@ -1,7 +1,7 @@
 {
-  "versionName": "1.53.0",
-  "versionCode": 65,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.53.0+65/app-release.apk",
-  "sha256": "18bd942daa60df87183dee2c7286ced30090e7abc99baef83b9654e041565ece",
-  "notes": "Weight trend polish: fullscreen button moved onto the filter row, the selected-point details no longer get cut off at the bottom, and a rotate button lets you view the graph in landscape."
+  "versionName": "1.54.0",
+  "versionCode": 66,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.54.0+66/app-release.apk",
+  "sha256": "65d4a4dee26948bcaaa60116ec99f814e286a6f42a9b35db9a7e703c41264231",
+  "notes": "Fasting notifications: lingering test notifications are cleared, the live countdown notification is now visible and force-enabled, and you'll get a reminder to start your next fast before your eating window closes."
 }
