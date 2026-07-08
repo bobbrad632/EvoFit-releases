@@ -1,7 +1,7 @@
 {
-  "versionName": "1.54.0",
-  "versionCode": 66,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.54.0+66/app-release.apk",
-  "sha256": "65d4a4dee26948bcaaa60116ec99f814e286a6f42a9b35db9a7e703c41264231",
-  "notes": "Fasting notifications: lingering test notifications are cleared, the live countdown notification is now visible and force-enabled, and you'll get a reminder to start your next fast before your eating window closes."
+  "versionName": "1.55.0",
+  "versionCode": 67,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.55.0+67/app-release.apk",
+  "sha256": "0cacb75f4e1ae0313205ceee5a753260d0393dfadeef30c2d80a047016234cbb",
+  "notes": "Notifications now show a matching illustration — a water glass for hydration, flames for fasting phases, a trophy at your target, a scale for weigh-ins, and more. Expand a notification to see the full image."
 }
