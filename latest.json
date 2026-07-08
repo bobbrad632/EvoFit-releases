@@ -1,7 +1,7 @@
 {
-  "versionName": "1.55.0",
-  "versionCode": 67,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.55.0+67/app-release.apk",
-  "sha256": "0cacb75f4e1ae0313205ceee5a753260d0393dfadeef30c2d80a047016234cbb",
-  "notes": "Notifications now show a matching illustration — a water glass for hydration, flames for fasting phases, a trophy at your target, a scale for weigh-ins, and more. Expand a notification to see the full image."
+  "versionName": "1.56.0",
+  "versionCode": 68,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.56.0+68/app-release.apk",
+  "sha256": "8537764925f70cab1b5787c4e308f45deab61739cf450cee25f734f1fcbb424b",
+  "notes": "New insights: a once-a-day 'where you're at' recap on app open, a 'This Week' review on Home, plus fasting goal-hit-rate and a calendar heatmap on the fasting history screen."
 }
