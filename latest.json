@@ -1,7 +1,7 @@
 {
-  "versionName": "1.56.0",
-  "versionCode": 68,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.56.0+68/app-release.apk",
-  "sha256": "8537764925f70cab1b5787c4e308f45deab61739cf450cee25f734f1fcbb424b",
-  "notes": "New insights: a once-a-day 'where you're at' recap on app open, a 'This Week' review on Home, plus fasting goal-hit-rate and a calendar heatmap on the fasting history screen."
+  "versionName": "1.57.0",
+  "versionCode": 69,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.57.0+69/app-release.apk",
+  "sha256": "d586b702476f524972b33fe8eb67dd87a00a684538b08488d0a982e0a2b0a898",
+  "notes": "Workouts and social activities are now one thing: a single Log Activity screen with a Workout/Social toggle (no more chooser), one detail page, and your existing data migrates automatically. Card/list view choices now stick after restart, fasting reminders go quiet while you're already fasting, and history screens got real back buttons plus a fullscreen fasting chart."
 }
