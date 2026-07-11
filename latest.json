@@ -1,7 +1,7 @@
 {
-  "versionName": "1.57.0",
-  "versionCode": 69,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.57.0+69/app-release.apk",
-  "sha256": "d586b702476f524972b33fe8eb67dd87a00a684538b08488d0a982e0a2b0a898",
-  "notes": "Workouts and social activities are now one thing: a single Log Activity screen with a Workout/Social toggle (no more chooser), one detail page, and your existing data migrates automatically. Card/list view choices now stick after restart, fasting reminders go quiet while you're already fasting, and history screens got real back buttons plus a fullscreen fasting chart."
+  "versionName": "1.58.0",
+  "versionCode": 70,
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.58.0+70/evofit-v1.58.0+70.apk",
+  "sha256": "6074cdbb9922dcfcf3697358fc0af7779399d32cabf94e767d21adbe9ed1fc34",
+  "notes": "Notification images now show as a thumbnail in the collapsed notification — no need to expand to see the illustration."
 }
