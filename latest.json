@@ -1,7 +1,7 @@
 {
-  "versionName": "1.58.0",
-  "versionCode": 70,
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.58.0+70/evofit-v1.58.0+70.apk",
-  "sha256": "6074cdbb9922dcfcf3697358fc0af7779399d32cabf94e767d21adbe9ed1fc34",
-  "notes": "Notification images now show as a thumbnail in the collapsed notification — no need to expand to see the illustration."
+  "versionCode": 71,
+  "versionName": "1.59.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.59.0+71/evofit-v1.59.0.apk",
+  "sha256": "c878828e7b9835640e6b1a119286ad012ee5c9a4f05b1ce623c9bf3ec4b9e223",
+  "notes": "Period review screen, per-period objective overrides, weight objective fix."
 }
