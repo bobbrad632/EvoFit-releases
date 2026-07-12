@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "1.59.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.59.0+71/evofit-v1.59.0.apk",
-  "sha256": "c878828e7b9835640e6b1a119286ad012ee5c9a4f05b1ce623c9bf3ec4b9e223",
-  "notes": "Period review screen, per-period objective overrides, weight objective fix."
+  "versionCode": 72,
+  "versionName": "1.60.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.60.0+72/evofit-v1.60.0.apk",
+  "sha256": "460c579eba9f7d52fcaad8bc4ce5cef6eec665fdb6a0bff7514f68906d4d9820",
+  "notes": "Show week target weight on progress card and period review."
 }
