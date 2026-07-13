@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "1.60.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.60.0+72/evofit-v1.60.0.apk",
-  "sha256": "460c579eba9f7d52fcaad8bc4ce5cef6eec665fdb6a0bff7514f68906d4d9820",
-  "notes": "Show week target weight on progress card and period review."
+  "versionCode": 73,
+  "versionName": "1.61.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.61.0/evofit-v1.61.0.apk",
+  "sha256": "908c7a9182e3f45e08d11e7591b876a1c000293e5236ecdc776334e89458f09b",
+  "notes": "Plan Overview with all periods, period notes, This Week filter on Food & Activity, gender-based images throughout the app."
 }
