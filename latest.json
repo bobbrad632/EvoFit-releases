@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "1.62.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.62.0/evofit-v1.62.0.apk",
-  "sha256": "9143e7f17278f086b2dac0514df0ba750bec78cf231acd8924376f7cf0e04f11",
-  "notes": "Period review insights: rule-based analysis and tips about your weekly performance."
+  "versionCode": 75,
+  "versionName": "1.62.1",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.62.1/evofit-v1.62.1.apk",
+  "sha256": "4b2a93981c8f33f22ca554dca21a9a99ad4c6e744bc798ce9e1936c0d0d4b3e7",
+  "notes": "Fix updater safety: reject mismatched APK builds before install. Also corrects the release chain after the v1.62.0 asset mismatch."
 }
