@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "1.64.1",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.64.1/evofit-v1.64.1.apk",
-  "sha256": "a9d521d353d783207366e905e0291d9c215f81d193af51e0cb0012ebf6ce09c2",
-  "notes": "Plan card on top, subtle 3-dot menu for plan settings."
+  "versionCode": 79,
+  "versionName": "1.64.2",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.64.2/evofit-v1.64.2.apk",
+  "sha256": "f7f6ce50787f6892f1f31e1d37048df4cb508779271bb1db6b50d35de4916367",
+  "notes": "UI polish: cleaner home card, edit icon on progress page, fixed button visibility on manage plan."
 }
