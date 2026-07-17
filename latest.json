@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "1.62.1",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.62.1/evofit-v1.62.1.apk",
-  "sha256": "4b2a93981c8f33f22ca554dca21a9a99ad4c6e744bc798ce9e1936c0d0d4b3e7",
-  "notes": "Fix updater safety: reject mismatched APK builds before install. Also corrects the release chain after the v1.62.0 asset mismatch."
+  "versionCode": 76,
+  "versionName": "1.63.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.63.0/evofit-v1.63.0.apk",
+  "sha256": "3a14683a60e831b203c3ed3cd506a981d8565ef030adf6424f5d394997f27115",
+  "notes": "Fasting phases view with metabolic stage tracking. Custom scroll-wheel datetime pickers throughout the app."
 }
