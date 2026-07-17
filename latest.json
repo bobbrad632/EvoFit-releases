@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "1.63.0",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.63.0/evofit-v1.63.0.apk",
-  "sha256": "3a14683a60e831b203c3ed3cd506a981d8565ef030adf6424f5d394997f27115",
-  "notes": "Fasting phases view with metabolic stage tracking. Custom scroll-wheel datetime pickers throughout the app."
+  "versionCode": 77,
+  "versionName": "1.64.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.64.0/evofit-v1.64.0.apk",
+  "sha256": "89682969e2619b7285cfb2d1212f29c4f99816699293c3923d39e4cff24a8f52",
+  "notes": "Home page redesign: weekly progress front and center, plan card opens progress view, cleaner layout."
 }
