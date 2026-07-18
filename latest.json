@@ -1,7 +1,7 @@
 {
-  "versionCode": 86,
-  "versionName": "1.65.5",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.5/EvoFit-v1.65.5.apk",
-  "sha256": "716fb83a1e268b157ff9b67c8988230543cda8f8a0ed506f3aa23fd86b04fb76",
-  "notes": "Switch food scan to CaloAI (RapidAPI)"
+  "versionCode": 87,
+  "versionName": "1.65.6",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.6/EvoFit-v1.65.6.apk",
+  "sha256": "cf890408e2ae6eb903c93606febdb8b3370711071c087bc1eada822f22a3d867",
+  "notes": "Switch food scan to Gemini Flash"
 }
