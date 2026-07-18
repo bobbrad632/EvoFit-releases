@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "1.64.3",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.64.3/evofit-v1.64.3.apk",
-  "sha256": "eab24d51a89e2edd43763ac7589c240a50d31794afe29eb511624a480dbd0ee0",
-  "notes": "Polish: bigger progress ring, all detail page buttons fully visible, duration prefill fix, fasting graph uppercase, About shows real version, notes as paragraph."
+  "versionCode": 81,
+  "versionName": "1.65.0",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.0/evofit-v1.65.0.apk",
+  "sha256": "8731aee79090928fcc924589b69680f56f690aff28ffde7ae1722bffb2b78983",
+  "notes": "Scan a meal photo to auto-fill calories, carbs, protein, and fat using AI food recognition."
 }
