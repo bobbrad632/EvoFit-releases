@@ -1,7 +1,7 @@
 {
-  "versionCode": 87,
-  "versionName": "1.65.6",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.6/EvoFit-v1.65.6.apk",
-  "sha256": "cf890408e2ae6eb903c93606febdb8b3370711071c087bc1eada822f22a3d867",
-  "notes": "Switch food scan to Gemini Flash"
+  "versionCode": 88,
+  "versionName": "1.65.7",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.7/EvoFit-v1.65.7.apk",
+  "sha256": "36f05bc1f4c4d4648cc4c71b523938d134dc2857d63a2ee06c6321c58920964c",
+  "notes": "Fix JSON parsing from Gemini response"
 }
