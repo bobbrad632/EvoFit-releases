@@ -1,0 +1,3 @@
+# APK files are distributed only as GitHub Release assets, never committed to git.
+*.apk
+*.apk.*
