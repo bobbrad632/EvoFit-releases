@@ -1,7 +1,7 @@
 {
-  "versionCode": 88,
-  "versionName": "1.65.7",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.7/EvoFit-v1.65.7.apk",
-  "sha256": "36f05bc1f4c4d4648cc4c71b523938d134dc2857d63a2ee06c6321c58920964c",
-  "notes": "Fix JSON parsing from Gemini response"
+  "versionCode": 89,
+  "versionName": "1.65.8",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.8/EvoFit-v1.65.8.apk",
+  "sha256": "2b56f012b960f5651f28fc927dad6055e44d7bf9ffedd86ac6903fb9647c49f8",
+  "notes": "Food scan: Analyze button on meal photos, multi-image, portion notes"
 }
