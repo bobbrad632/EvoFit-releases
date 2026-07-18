@@ -1,7 +1,7 @@
 {
-  "versionCode": 84,
-  "versionName": "1.65.3",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.3/EvoFit-v1.65.3.apk",
-  "sha256": "e113513013514b9d97c7194e6c1da1eb71c2e694f48b28530552cdf844be90b0",
-  "notes": "Show actual scan error reason in UI for diagnosis"
+  "versionCode": 86,
+  "versionName": "1.65.5",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.5/EvoFit-v1.65.5.apk",
+  "sha256": "716fb83a1e268b157ff9b67c8988230543cda8f8a0ed506f3aa23fd86b04fb76",
+  "notes": "Switch food scan to CaloAI (RapidAPI)"
 }
