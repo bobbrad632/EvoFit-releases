@@ -1,7 +1,1 @@
-{
-  "versionCode": 82,
-  "versionName": "1.65.1",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.1/evofit-v1.65.1.apk",
-  "sha256": "685434666c9ac549efa8889e27b79c96d6d6d599f46db7f532fe459dad83ee99",
-  "notes": "Scan food from camera or gallery photo for calorie and macro recognition."
-}
+{"version":"1.65.2","build":83,"url":"https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.2/EvoFit-v1.65.2.apk","sha256":"55958e20c58b72250db8aa3868403c7db9430f1015b701657fc572c35ce5b026","releaseNotes":"Fix food scan (camera + gallery) — improve API error logging"}
