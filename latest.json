@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "1.64.2",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.64.2/evofit-v1.64.2.apk",
-  "sha256": "f7f6ce50787f6892f1f31e1d37048df4cb508779271bb1db6b50d35de4916367",
-  "notes": "UI polish: cleaner home card, edit icon on progress page, fixed button visibility on manage plan."
+  "versionCode": 80,
+  "versionName": "1.64.3",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.64.3/evofit-v1.64.3.apk",
+  "sha256": "eab24d51a89e2edd43763ac7589c240a50d31794afe29eb511624a480dbd0ee0",
+  "notes": "Polish: bigger progress ring, all detail page buttons fully visible, duration prefill fix, fasting graph uppercase, About shows real version, notes as paragraph."
 }
