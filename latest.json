@@ -1,7 +1,7 @@
 {
-  "versionCode": 89,
-  "versionName": "1.65.8",
-  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.8/EvoFit-v1.65.8.apk",
-  "sha256": "2b56f012b960f5651f28fc927dad6055e44d7bf9ffedd86ac6903fb9647c49f8",
-  "notes": "Food scan: Analyze button on meal photos, multi-image, portion notes"
+  "versionCode": 90,
+  "versionName": "1.65.9",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.9/EvoFit-v1.65.9.apk",
+  "sha256": "a2086c3c72b3cd5fa96573d24baf2f4faf2de23649dffd77f5b6d15ff06f7023",
+  "notes": "Weekly weight target fix: milestones now anchored to plan-start weight for predictable, linear targets"
 }
