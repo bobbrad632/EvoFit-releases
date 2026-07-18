@@ -1,1 +1,7 @@
-{"versionCode":83,"versionName":"1.65.2","apkUrl":"https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.2/EvoFit-v1.65.2.apk","sha256":"55958e20c58b72250db8aa3868403c7db9430f1015b701657fc572c35ce5b026","notes":"Fix food scan (camera + gallery)"}
+{
+  "versionCode": 84,
+  "versionName": "1.65.3",
+  "apkUrl": "https://github.com/bobbrad632/EvoFit-releases/releases/download/v1.65.3/EvoFit-v1.65.3.apk",
+  "sha256": "e113513013514b9d97c7194e6c1da1eb71c2e694f48b28530552cdf844be90b0",
+  "notes": "Show actual scan error reason in UI for diagnosis"
+}
